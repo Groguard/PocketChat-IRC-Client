@@ -12,12 +12,15 @@ Client patch notes for V0.5.1:
 Dependencies:
 
 python3:
+
 sudo apt-get install python3
 
 python-tk:
+
 sudo apt-get install python3-tk
 
 To run the program: 
+
 python3 PocketChatV0.5.1.py
 
 Open port 5000 on PocketChip:
