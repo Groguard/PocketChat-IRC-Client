@@ -1,5 +1,7 @@
 # PocketChat
 PocketChat is a little chat program that I wrote in python with a UI made for the PocketChip.
+
+
 Client patch notes for V0.5.1:
 
 - Rewrote most of the client code to make it more object oriented.
