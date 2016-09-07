@@ -5,7 +5,7 @@ Client patch notes for PocketChatIRC client V1.0:
 
 NEW COMMANDS:
 - Join a channel: /join #channel
-- Leave a channel: /leave in the channel window you want to leave
+- Leave a channel: /leave in the window of the channel you want to leave
 - Send a pm: /msg user
 
 Currently working:  
