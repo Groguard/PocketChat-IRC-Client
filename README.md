@@ -2,7 +2,9 @@
 PocketChat is a little chat program that I wrote in python with a UI made for the PocketChip.
 
 Client patch notes for PocketChatIRC client V1.0:
+
 Commands for PocketChatIRC client V1.0:
+
 NEW COMMANDS:
 - Join a channel: /join #channel
 - Leave a channel: /leave in the channel window you want to leave
