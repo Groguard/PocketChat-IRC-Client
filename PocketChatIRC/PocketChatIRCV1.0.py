@@ -6,7 +6,7 @@ from time import sleep
 import socket, threading, select, sys
 
 sckt = socket.socket()
-SERVER = '192.168.1.30'
+SERVER = 'irc.freenode.net'
 PORT = 6667
 
 class Window(Frame):
