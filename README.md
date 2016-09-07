@@ -7,6 +7,7 @@ NEW COMMANDS:
 - Join a channel: /join #channel
 - Leave a channel: /leave in the channel window you want to leave
 - Send a pm: /msg user
+
 Currently working:  
 - Joining and leaving channels
 - Private messages
