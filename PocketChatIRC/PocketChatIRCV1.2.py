@@ -204,7 +204,7 @@ class Window(Frame):
                     x = " ".join(line[3:]) # Grabbing everything after the 3rd index and joining the message.
                     self.find_window(line[3], x + '\n')         
             else:
-                if ':' in line[0]:
+                if ':' in line[0] and self.aliasname not in line[0]:
                     x = " ".join(line) # Grabbing everything after the 1st index and join the message.
                     self.post_text(x + '\n')
                 else:
