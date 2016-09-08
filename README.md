@@ -1,6 +1,9 @@
 # PocketChat
 PocketChat is a little chat program that I wrote in python with a UI made for the PocketChip.
 
+Client patch notes for PocketChatIRC client V1.1:
+- Fixed bug that caused an indexing issue with incoming messages
+
 Client patch notes for PocketChatIRC client V1.0:
 
 NEW COMMANDS:
