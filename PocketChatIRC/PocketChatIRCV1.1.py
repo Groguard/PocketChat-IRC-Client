@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from tkinter import messagebox
 from tkinter import *
 from tkinter.scrolledtext import ScrolledText
