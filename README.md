@@ -1,17 +1,20 @@
 # PocketChat
 PocketChat is a little chat program that I wrote in python with a UI made for the PocketChip.
 
-Client patch notes for PocketChatIRC client V1.1:
-- Fixed bug that caused an indexing issue with incoming messages
-
-Client patch notes for PocketChatIRC client V1.0:
-
-NEW COMMANDS:
+COMMANDS:
 - Join a channel: /join #channel
 - Leave a channel: /leave in the window of the channel you want to leave
 - Send a pm: /msg user
 
-Currently working:  
+Client patch notes for PocketChatIRC client V1.2:
+- Fixed bug where all users where not being adding to the online user list properly
+- Added filtering for NOTICE messages from the server
+- Changed what is being shown on other incoming messages being posted in the main window
+
+Client patch notes for PocketChatIRC client V1.1:
+- Fixed bug that caused an indexing issue with incoming messages
+
+Client patch notes for PocketChatIRC client V1.0:
 - Joining and leaving channels
 - Private messages
 - Online user list for all channels
@@ -21,7 +24,6 @@ Client patch notes for PocketChatIRC client V0.5:
 - Basic functionality working
 
 Client patch notes for V0.5.1:
-
 - Rewrote most of the client code to make it more object oriented.
 - Removed many unnecessary lines of code.
 - Fixed some error handling issues with usernames and empty text messages.
