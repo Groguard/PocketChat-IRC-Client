@@ -6,6 +6,10 @@ COMMANDS:
 - Leave a channel: /leave in the window of the channel you want to leave
 - Send a pm: /msg user
 
+Client patch notes for PocketChatIRC client V1.4:
+- Fixed bug where some of the incoming text was being added to the online user list
+- Added timestamps
+
 Client patch notes for PocketChatIRC client V1.2:
 - Fixed bug where all users where not being adding to the online user list properly
 - Added filtering for NOTICE messages from the server
