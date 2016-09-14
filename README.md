@@ -5,6 +5,16 @@ COMMANDS:
 - Join a channel: /join #channel
 - Leave a channel: /leave in the window of the channel you want to leave
 - Send a pm: /msg user
+- Change you nick: /nick newname
+
+Client patch notes for PocketChatIRC client V1.6:
+- Better formating for incoming text from server
+- Added message filtering for incoming QUIT commands
+- Added message filtering for incoming ACTION commands e.g.(*user did something)
+- Added /nick command to change nick while connected
+- Added SSL connection option
+- Added password option for registered usernames
+- Added online user count to online list
 
 Client patch notes for PocketChatIRC client V1.5:
 - Fixed an issue with the receiving loop that was causing high cpu usage
