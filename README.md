@@ -7,6 +7,9 @@ COMMANDS:
 - Send a pm: /msg user
 - Change you nick: /nick newname
 
+Client patch notes for PocketChatIRC client V1.7:
+- Added quit function to close the program when a user types /quit in any tab.
+
 Client patch notes for PocketChatIRC client V1.6:
 - Better formating for incoming text from server
 - Added message filtering for incoming QUIT commands
