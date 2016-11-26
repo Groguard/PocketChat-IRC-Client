@@ -10,7 +10,7 @@ COMMANDS:
 - Close the client: /quit
 
 Client patch notes for PocketChatIRC client V1.9:
-- Removed over 30 lines of repetitive code
+- Removed over 30 lines of repetitive code while keeping functionality
 - Added option to change IRC server
 - Fixed bug with sending a pm where the case wasn't the same as on the server, causing a new tab to open
 
