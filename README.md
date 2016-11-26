@@ -14,7 +14,7 @@ Client patch notes for PocketChatIRC client V1.9:
 - Fixed bug with sending a pm where the case wasn't the same as on the server
 
 Client patch notes for PocketChatIRC client V1.8:
-- Fixed with where only a part of the users message would be sent
+- Fixed bug where only a part of the users message would be sent
 
 Client patch notes for PocketChatIRC client V1.7:
 - Added quit function to close the program when a user types /quit in any tab.
