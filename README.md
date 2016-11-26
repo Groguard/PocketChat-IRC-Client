@@ -1,5 +1,6 @@
 # PocketChat
 PocketChat is a little chat program that I wrote in python with a UI made for the PocketChip.
+It can also be used on windows and linux.
 
 COMMANDS:
 - Join a channel: /join #channel
