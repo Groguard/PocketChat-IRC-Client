@@ -54,12 +54,6 @@ it can also be used on windows and linux.
 # Client patch notes for PocketChatIRC client V0.5:
 - Basic functionality working
 
-# Client patch notes for V0.5.1:
-- Rewrote most of the client code to make it more object oriented.
-- Removed many unnecessary lines of code.
-- Fixed some error handling issues with usernames and empty text messages.
-- Optimized most of the code.
-
 # Dependencies:
 
 - sudo apt-get install python3
