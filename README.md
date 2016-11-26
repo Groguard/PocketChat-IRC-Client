@@ -11,7 +11,7 @@ COMMANDS:
 Client patch notes for PocketChatIRC client V1.9:
 - Removed over 30 lines of repetitive code
 - Added option to change IRC server
-- Fixed bug with sending a pm where the case wasn't the same as on the server, causeing a new tab to open
+- Fixed bug with sending a pm where the case wasn't the same as on the server, causing a new tab to open
 
 Client patch notes for PocketChatIRC client V1.8:
 - Fixed bug where only a part of the users message would be sent
