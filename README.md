@@ -9,6 +9,11 @@ it can also be used on windows and linux.
 - Change you nick: /nick newname
 - Close the client: /quit
 
+# Client patch notes for PocketChatIRC client V1.9.1:
+- Cleaned up more code in the tabbing system increasing speed
+- Cleaning up naming space for easier code readability
+- Removed several for loops through out by changing a few things with the dictionaries, increasing speed
+
 # Client patch notes for PocketChatIRC client V1.9:
 - Removed over 30 lines of repetitive code while keeping functionality
 - Added option to change IRC server
