@@ -31,7 +31,7 @@ class Window(Frame):
         
         self.SERVERIP = Entry(self.top, width=24)
         self.SERVERIP.place(x=75, y=10)
-        self.SERVERIP.insert(0, 'kornbluth.​freenode.​net')
+        self.SERVERIP.insert(0, 'weber.freenode.net')
         self.SERVERLB = Label(self.top, text = 'Server IP')
         self.SERVERLB.place(x=5, y=10)
         
