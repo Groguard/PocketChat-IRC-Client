@@ -8,7 +8,7 @@ it can also be used on windows and linux.
 - Send a pm: /msg user message
 - Change you nick: /nick newname
 - Close the client: /quit
-- Auto join channels by adding them to the box seperated by commas no spaces(ie #chipsters,#nextthingco,#linux)
+- Auto join channels by adding them to the box seperated by commas no spaces e.g.(#chipsters,#nextthingco,#linux)
 
 # Client patch notes for PocketChatIRC client V2.0:
 - Added nickname, identity, and realname persistance
