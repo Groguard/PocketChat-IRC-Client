@@ -2,6 +2,8 @@
 PocketChat is a light weight IRC client that I wrote in python with a UI made for the PocketChip, but
 it can also be used on windows and linux.
 
+<a href="http://imgur.com/RmCt5iu"><img src="http://i.imgur.com/RmCt5iu.png" title="source: imgur.com" /></a>
+
 # COMMANDS:
 - Join a channel: /join #channel
 - Leave a channel: /leave in the window of the channel you want to leave
