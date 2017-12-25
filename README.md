@@ -17,4 +17,4 @@ it can also be used on windows and linux.
 - sudo apt-get install python3
 - sudo apt-get install python3-tk
 - run the program: 
-  python3 PocketChatIRCV.py
+  python3 PocketChatIRC.py
